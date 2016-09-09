@@ -11,6 +11,6 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-help": "^1.6.1",
-    "p2-theme-core": "^8.2.0"
+    "p2-theme-core": "^8.2.1"
   }
 }
