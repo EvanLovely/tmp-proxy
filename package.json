@@ -1,0 +1,16 @@
+{
+  "name": "tmp-proxy",
+  "version": "1.0.0",
+  "description": "Temp Proxy Test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp clean && gulp compile && gulp",
+    "compile": "gulp clean && gulp compile",
+    "test": "gulp validate"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-help": "^1.6.1",
+    "p2-theme-core": "^8.2.0"
+  }
+}
